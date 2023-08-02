@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                                                   android:layout_height="match_parent">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/linearLayout">
+        <ListView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/list_view"/>
+        <TextView
+                android:text="@string/default_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView"/>
+        <Switch
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/switch1" android:minHeight="48dp"
+                android:text="@string/second_screen_switch"/>
+        <Switch
+                android:text="@string/debug_info_switch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/switch2" android:minHeight="48dp"/>
+        <Button
+                android:text="@string/return_main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/bt9"/>
+        <Button
+                android:text="@string/set_default"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/bt10"
+        />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

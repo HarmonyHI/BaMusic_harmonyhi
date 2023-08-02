@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BA音盒</string>
+
+    <string name="Button1str">当前时间</string>
+    <string name="Button2str">关闭程序</string>
+    <string name="Bt1str">Random</string>
+    <string name="Bt2str">Random2</string>
+    <string name="Bt3str">Random3</string>
+    <string name="Bt4str">Random4</string>
+    <string name="Bt5str">CLOSE_ALL</string>
+    <string name="goto_second_x">杂项</string>
+
+    <string name="Button1strx">日晷</string>
+    <string name="Button2strx">EXIT</string>
+    <string name="Bt1strx">甲</string>
+    <string name="Bt2strx">乙</string>
+    <string name="Bt3strx">丙</string>
+    <string name="Bt4strx">丁</string>
+    <string name="Bt5strx">斩杀</string>
+    <string name="goto_second">OPTIONS</string>
+
+    <string name="menu_str1">随机鸡A</string>
+    <string name="menu_str2">随机鸡B</string>
+    <string name="menu_str3">随机鸡C</string>
+    <string name="menu_str4">随机鸡D</string>
+    <string name="menu_str5">随机鸡E</string>
+    <string name="menu_str6">随机鸡F</string>
+    <string name="menu_str7">随机鸡G</string>
+    <string name="menu_str8">随机鸡H</string>
+
+    <string name="second_screen_switch">专注模式</string>
+    <string name="debug_info_switch">调试信息</string>
+    <string name="return_main">返回上一级</string>
+    <string name="set_default">恢复默认</string>
+
+    <string name="default_text">
+        晋太元中，武陵人捕鱼为业。缘溪行，忘路之远近。忽逢桃花林，夹岸数百步，中无杂树，芳草鲜美，落英缤纷。渔人甚异之，复前行，欲穷其林。
+        林尽水源，便得一山，山有小口，仿佛若有光。便舍船，从口入。初极狭，才通人。复行数十步，豁然开朗。土地平旷，屋舍俨然，有良田、美池、桑竹之属。阡陌交通，鸡犬相闻。其中往来种作，男女衣着，悉如外人。黄发垂髫，并怡然自乐。
+        见渔人，乃大惊，问所从来。具答之。便要还家，设酒杀鸡作食。村中闻有此人，咸来问讯。自云先世避秦时乱，率妻子邑人来此绝境，不复出焉，遂与外人间隔。问今是何世，乃不知有汉，无论魏晋。此人一一为具言所闻，皆叹惋。余人各复延至其家，皆出酒食。停数日，辞去。此中人语云：“不足为外人道也。”
+        既出，得其船，便扶向路，处处志之。及郡下，诣太守，说如此。太守即遣人随其往，寻向所志，遂迷，不复得路。
+        南阳刘子骥，高尚士也，闻之，欣然规往。未果，寻病终，后遂无问津者。
+    </string>
+
+</resources>
